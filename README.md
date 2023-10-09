@@ -6,6 +6,10 @@
 This project is meant to show and explain my new implementation of the `CustomPainter` class.
 I built a drawing app a few years ago in Java and eventually rebuilt it in Flutter. It looked beautiful but suffered from what I now know are predictable performance issues with non-native frameworks. Here is how I solved my problem, I'd love to hear your thoughts or see if we can make this even better!
 
+This is a simplified verson of my testing, using multitouch in Flutter `GestureDetector` to draw paths with many points to test app performance. On the left we have the classic `CustomPainter` and on the right we have my new `PerformancePainter`. With multitouch, and screen recording on, the performance is lower than 'normal' but these results are present across tests.
+
+![New Performance Painter](https://github.com/lalondeph/flutter_performance_painter/assets/56025884/e9963bc4-ff5f-485b-b98f-8fc12b403531)
+
 ## TL;DR
 
 I significantly\* boosted the performance of my Flutter painting app by using a `Stack` of 2 `CustomPainter`s.
