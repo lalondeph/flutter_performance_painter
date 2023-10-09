@@ -8,7 +8,7 @@ I built a drawing app a few years ago in Java and eventually rebuilt it in Flutt
 
 I used multitouch in Flutter `GestureDetector` to draw paths with many points to test app performance. On the left we have the classic `CustomPainter` and on the right we have my new `PerformancePainter`. With multitouch, and screen recording on, the performance is lower than 'normal' but these results are present across tests. The classing implimentation gets worse performance over time while the performance version stays relatively steady. This is a simplified test, but the results are typical across my testing.
 
-![New Performance Painter](https://github.com/lalondeph/flutter_performance_painter/assets/56025884/e9963bc4-ff5f-485b-b98f-8fc12b403531)
+![New Performance Painter](https://github.com/lalondeph/flutter_performance_painter/assets/56025884/68301e88-25a2-4c1a-9a1f-8bef14fd0f98)
 
 ## TL;DR
 
