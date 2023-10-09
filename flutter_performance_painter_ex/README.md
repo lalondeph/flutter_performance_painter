@@ -1,16 +1,8 @@
-# flutter_performance_painter_ex
+# Flutter Performance Painter
 
-A new Flutter project.
+This project outlines my new architecture for `CustomPainter`.
 
-## Getting Started
+You will find a `Stack` of `CustomPainter` widgets within the `PerformanceDrawingView` class.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I would love to continue boosting the performance. 
+If you see room for improvement, please open an issue and I will work with you to implement the changes!
