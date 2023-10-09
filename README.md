@@ -144,4 +144,4 @@ With these 2 solutions implemented, our widget ends up looking something like th
 }
 ``` 
 
-Huge thank you to Bruno, Will and Graham from feedback and advice. Also a big thanks to the FLutter Discord for providing friendly help.
+Huge thank you to Bruno, Will and Graham for feedback and advice. Also a big thanks to the FLutter Discord for providing friendly help.
