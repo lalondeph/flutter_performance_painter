@@ -11,6 +11,7 @@ I built a drawing app a few years ago in Java and eventually rebuilt it in Flutt
 I significantly\* boosted the performance of my Flutter painting app by using a `Stack` of 2 `CustomPainter`s.
  
 -`LazyPainter` repaints drawn lines via a `Listenable`.
+
 - `CurrentLinePainter` is inside a `GestureDetector` and repaints the current line while you draw. 
 
 By decoupling the old and new lines, when you draw a new line, it's refreshed as if it's the only line being drawn (because it is!)
