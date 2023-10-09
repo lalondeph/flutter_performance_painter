@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lalon/Desktop/Coding Projects/PugPad/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.233" />
+        <entry key="..\:/Users/Lalon/Desktop/Coding Projects/PugPad/app/src/main/res/drawable/ic_baseline_undo_24.xml" value="0.233" />
+        <entry key="..\:/Users/Lalon/Desktop/Coding Projects/PugPad/app/src/main/res/drawable/ic_erasericon.xml" value="0.233" />
+        <entry key="..\:/Users/Lalon/Desktop/Coding Projects/PugPad/app/src/main/res/layout/activity_main.xml" value="0.3828571428571429" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/DrawingApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1145" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/DrawingApp/app/src/main/res/drawable/ic_pug_pad.xml" value="0.114" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.5142857142857143" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/DrawingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1145" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/PugPad/app/src/main/res/drawable/ic_clear_icon.xml" value="0.2335" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/PugPad/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2335" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/PugPad/app/src/main/res/drawable/ic_pug_pad.xml" value="0.106" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/PugPad/app/src/main/res/drawable/ic_save_icon.xml" value="0.2335" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/PugPad/app/src/main/res/drawable/ic_undo_icon.xml" value="0.2335" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/PugPad/app/src/main/res/layout/activity_main.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/Lalon/Desktop/School/Current projects/COMP 208 - Mobile/A2/PugPad/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
